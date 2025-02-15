@@ -1,0 +1,9 @@
+streamlit==1.40.0
+streamlit-oauth==0.1.8
+meldrx-fhir-client==0.0.8
+streamlit_webrtc
+pydub
+groq
+python-dotenv
+ffmpeg-python
+reportlab
